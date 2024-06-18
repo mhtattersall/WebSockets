@@ -5,8 +5,7 @@
 - Start Server.py in the terminal, then Client.py in another terminal.  
 - See https://github.com/johntango/Streaming for a further example.
 
-Fette, Ian, and Alexey Melnikov. “The WebSocket Protocol.” RFC 6455. Dec. 2011Links to an external site.
-https://datatracker.ietf.org/doc/html/rfc6455.Links to an external site.
+Fette, Ian, and Alexey Melnikov. “The WebSocket Protocol.” RFC 6455. Dec. 2011 https://datatracker.ietf.org/doc/html/rfc6455.
 
 Jameson, Mark. “A Brief Overview of the Web Socket Protocol.” Mark Jameson. 2017. https://noio-ws.readthedocs.io/en/latest/overview_of_websockets.html.Links to an external site.
 
